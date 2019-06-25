@@ -1,5 +1,4 @@
 body{
-  
     background-color: rgb(210, 213, 216)
     
 }
@@ -7,7 +6,7 @@ body{
 h1{
     color: rgb(51, 63, 72);
     text-align: center;
-    font-size: 150px;
+    font-size: 100px;
     font-family: 'Roboto Condensed', sans-serif;
 }
 img {
