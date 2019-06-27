@@ -92,3 +92,13 @@ h3{
     font-size: 28px;
     font-family: 'Encode Sans Semi Condensed', sans-serif;
 }
+
+.caption{
+    color: rgb(91, 103, 112);
+    font-size: 25px;
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
+    width:image width px; 
+    font-size:80%; 
+    text-align:center;
+    border: 4px 4px #323030
+}
